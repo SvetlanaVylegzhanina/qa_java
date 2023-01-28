@@ -1,4 +1,3 @@
-import com.example.Cat;
 import com.example.Feline;
 import com.example.Lion;
 import org.junit.Before;
@@ -8,7 +7,6 @@ import org.junit.runners.Parameterized;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
-import org.mockito.junit.MockitoJUnitRunner;
 
 import java.util.List;
 
